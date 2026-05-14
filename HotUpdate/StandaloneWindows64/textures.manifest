@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.20f1c1
+CRC: 1533609017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2587d0c727be437ea40fadd44ae9a4bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f349c36d7a6532f767333f9299b3e74
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6246c15de9e4f4965c79acc820575dca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Textre2D/\u666E\u901A\u50F5\u5C38.png"
+- "Assets/Textre2D/\u7ECF\u9A8C\u74031.png"
+- Assets/Textre2D/BG1.png
+- "Assets/Textre2D/\u81EA\u7206\u866B1.png"
+- "Assets/Textre2D/\u91CD\u7532\u9AB7\u9AC5.png"
+- "Assets/Textre2D/\u5899\u58C1-\u6728\u6805\u680F.png"
+- Assets/Textre2D/BG3.png
+- "Assets/Textre2D/\u81EA\u7206\u866B2.png"
+- "Assets/Textre2D/\u73A9\u5BB6-\u8FD1\u6218\u5251 2.png"
+- Assets/Textre2D/BG2.png
+- "Assets/Textre2D/\u602A-\u7BAD3.png"
+- "Assets/Textre2D/\u81EA\u7206\u866B4.png"
+- "Assets/Textre2D/\u969C\u788D\u7269-\u6728\u7BB1.png"
+- "Assets/Textre2D/\u8840\u74031.png"
+- Assets/Textre2D/BG4.png
+- Assets/Textre2D/slide button.png
+- "Assets/Textre2D/\u6025\u901F\u730E\u72AC.png"
+- "Assets/Textre2D/\u65B9\u5757\u82F1\u96C41.png"
+- "Assets/Textre2D/\u81EA\u7206\u866B3.png"
+- "Assets/Textre2D/\u5899\u58C1-\u77F3\u5899.png"
+- Assets/Textre2D/Start.png
+- "Assets/Textre2D/\u73A9\u5BB6-\u8FDC\u7A0B\u6CD5\u672F\u74032.png"
+- Assets/Textre2D/Boom.png
+- "Assets/Textre2D/\u73A9\u5BB6-\u8FD1\u6218\u5251.png"
+- Assets/Textre2D/background_2.png
+- "Assets/Textre2D/\u65B9\u5757\u82F1\u96C4.png"
+- Assets/Textre2D/background_3.png
+- "Assets/Textre2D/\u8840\u74032.png"
+- "Assets/Textre2D/\u91CD\u7532\u9AB7\u9AC51.png"
+- "Assets/Textre2D/\u73A9\u5BB6-\u8FDC\u7A0B\u6CD5\u672F\u7403.png"
+- "Assets/Textre2D/\u6025\u901F\u730E\u72AC2.png"
+- "Assets/Textre2D/\u602A-\u7BAD2.png"
+- "Assets/Textre2D/\u8FDC\u7A0B\u5C04\u624B.png"
+- Assets/Textre2D/slide bar.png
+- "Assets/Textre2D/\u602A-\u7BAD1.png"
+- "Assets/Textre2D/\u7ECF\u9A8C\u74032.png"
+Dependencies: []

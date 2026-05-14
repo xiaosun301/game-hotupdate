@@ -1,14 +1,47 @@
 {
-  "version": "1.0.0",
-  "platform": "StandaloneWindows64",
-  "files": [
-    {"fileName": "Assembly-CSharp.dll", "hash": "auto", "size": 0},
-    {"fileName": "HotUpdate.dll", "hash": "auto", "size": 0},
-    {"fileName": "HybridCLR.Runtime.dll", "hash": "auto", "size": 0},
-    {"fileName": "Unity.InputSystem.dll", "hash": "auto", "size": 0},
-    {"fileName": "Unity.TextMeshPro.dll", "hash": "auto", "size": 0},
-    {"fileName": "Unity.Timeline.dll", "hash": "auto", "size": 0},
-    {"fileName": "Unity.VisualScripting.Core.dll", "hash": "auto", "size": 0},
-    {"fileName": "UnityEngine.UI.dll", "hash": "auto", "size": 0}
-  ]
+    "version": "0.1",
+    "platform": "StandaloneWindows64",
+    "generatedAtUtc": "2026-05-14T10:30:43.2416715Z",
+    "files": [
+        {
+            "fileName": "HotUpdate.dll",
+            "hash": "6b99a1f0a506b1352bd1bdd73ef0e2df",
+            "size": 4608
+        },
+        {
+            "fileName": "map_prefabs",
+            "hash": "d167cebe9463cdcf8380254a1a677828",
+            "size": 6845
+        },
+        {
+            "fileName": "monster_prefabs",
+            "hash": "efc5c26c47c0c630660347c6ec6a956a",
+            "size": 78068
+        },
+        {
+            "fileName": "player_prefabs",
+            "hash": "bf5355a90f545ed2dbbdf0328a3616c3",
+            "size": 6736
+        },
+        {
+            "fileName": "scene_assets",
+            "hash": "d0b4aaa1dd210040bb0bf8ba0c709780",
+            "size": 3233332
+        },
+        {
+            "fileName": "StandaloneWindows64",
+            "hash": "db51227b644d374dbdc62cac177978fd",
+            "size": 1755
+        },
+        {
+            "fileName": "textures",
+            "hash": "49b2616da5e2a3ab5ee4e6a74067a953",
+            "size": 3108299
+        },
+        {
+            "fileName": "ui_prefabs",
+            "hash": "4d5ddf7dc565b9d721f729ca0d067bfa",
+            "size": 3044213
+        }
+    ]
 }
