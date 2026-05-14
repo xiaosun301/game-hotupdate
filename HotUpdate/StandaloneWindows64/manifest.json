@@ -1,5 +1,14 @@
 {
   "version": "1.0.0",
   "platform": "StandaloneWindows64",
-  "files": []
+  "files": [
+    {"fileName": "Assembly-CSharp.dll", "hash": "auto", "size": 0},
+    {"fileName": "HotUpdate.dll", "hash": "auto", "size": 0},
+    {"fileName": "HybridCLR.Runtime.dll", "hash": "auto", "size": 0},
+    {"fileName": "Unity.InputSystem.dll", "hash": "auto", "size": 0},
+    {"fileName": "Unity.TextMeshPro.dll", "hash": "auto", "size": 0},
+    {"fileName": "Unity.Timeline.dll", "hash": "auto", "size": 0},
+    {"fileName": "Unity.VisualScripting.Core.dll", "hash": "auto", "size": 0},
+    {"fileName": "UnityEngine.UI.dll", "hash": "auto", "size": 0}
+  ]
 }
