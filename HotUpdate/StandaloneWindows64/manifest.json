@@ -1,47 +1,82 @@
 {
-    "version": "0.1",
+    "version": "1.0.1",
     "platform": "StandaloneWindows64",
-    "generatedAtUtc": "2026-05-14T10:50:51.3745478Z",
+    "generatedAtUtc": "2026-05-15T12:46:52.7647220Z",
+    "hotUpdateCodeFolders": [
+        "Assets/HotUpdate/GameLogic",
+        "Assets/HotUpdate/UI",
+        "Assets/HotUpdate/Config"
+    ],
+    "hotUpdateAssetFolders": [
+        "Assets/Prefabs/UI",
+        "Assets/Prefabs/Monster",
+        "Assets/Prefabs/Player",
+        "Assets/Prefabs/Map",
+        "Assets/Scripts/Misc/ScriptableObjects",
+        "Assets/ScriptableObjects",
+        "Assets/Configs",
+        "Assets/Scenes",
+        "Assets/Textre2D",
+        "Assets/Textures2D",
+        "Assets/Icons",
+        "Assets/Material",
+        "Assets/Audio",
+        "Assets/VFX",
+        "Assets/Effects"
+    ],
+    "rawHotUpdateFiles": [
+        "Assets/HotUpdate/Config/card_rules.json"
+    ],
     "files": [
         {
+            "fileName": "card_rules.json",
+            "hash": "9574e376e64506ed34ae811847a3658c",
+            "size": 280
+        },
+        {
+            "fileName": "configs",
+            "hash": "4a59aff561e9262e8425e400fe7080e0",
+            "size": 6469
+        },
+        {
             "fileName": "HotUpdate.dll",
-            "hash": "6b99a1f0a506b1352bd1bdd73ef0e2df",
-            "size": 4608
+            "hash": "c379ecc6ea57e4b3083b297ed39c7ad9",
+            "size": 22016
         },
         {
             "fileName": "map_prefabs",
-            "hash": "d167cebe9463cdcf8380254a1a677828",
-            "size": 6845
+            "hash": "0e33418d33384594c2f84769275352dc",
+            "size": 6838
         },
         {
             "fileName": "monster_prefabs",
-            "hash": "efc5c26c47c0c630660347c6ec6a956a",
-            "size": 78068
+            "hash": "2e2e609cb5e7ae064f8325d4f8fc7650",
+            "size": 76836
         },
         {
             "fileName": "player_prefabs",
-            "hash": "bf5355a90f545ed2dbbdf0328a3616c3",
-            "size": 6736
+            "hash": "b757600e9f4e22ac85a1f0632cf2972a",
+            "size": 6731
         },
         {
             "fileName": "scene_assets",
-            "hash": "d0b4aaa1dd210040bb0bf8ba0c709780",
-            "size": 3233332
+            "hash": "bf2eae6a502d0b4af078d49873b97dfc",
+            "size": 3232600
         },
         {
             "fileName": "StandaloneWindows64",
-            "hash": "db51227b644d374dbdc62cac177978fd",
-            "size": 1755
+            "hash": "a5daf7d2ca73e259d4384eb3790dd254",
+            "size": 1793
         },
         {
             "fileName": "textures",
-            "hash": "49b2616da5e2a3ab5ee4e6a74067a953",
-            "size": 3108299
+            "hash": "8d9112b814fd03dd5dfa7f06b1d661fc",
+            "size": 3108197
         },
         {
             "fileName": "ui_prefabs",
-            "hash": "4d5ddf7dc565b9d721f729ca0d067bfa",
-            "size": 3044213
+            "hash": "99f56cba0ecc529a2dff8873da60f867",
+            "size": 3044243
         }
     ]
 }

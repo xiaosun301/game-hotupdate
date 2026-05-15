@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 2023.2.20f1c1
-CRC: 2299070311
+CRC: 1445713947
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1bd658a12de1120bd61b3bdaf85ce255
+    Hash: fb808f1f2b70c1c2d0df0edacd07845b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: eb84379eaea835663a22be9ab55da63a
+    Hash: 9801dc2c402dbbdb47fd85e64da00cf2
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 80d744380b071dd06e08c2a04b052374
+    Hash: b7d041c2d970d911f1b7236ad49cf895
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -73,8 +73,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 8f859d0dbfade1243badf8c5fe1c5705, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6954064011d9ba84e9725395e7c983d0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
@@ -145,8 +143,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b3d68d44489067c4d98b478efaaa6ccb, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 874ac2dd72d5e1d4298d414e6c0fbab4, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -176,6 +172,7 @@ Assets:
 - Assets/Scenes/RankingList.unity
 - Assets/Scenes/TestScene.unity
 Dependencies:
+- D:/unity/Progream/AI_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/configs
 - D:/unity/Progream/AI_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/map_prefabs
 - D:/unity/Progream/AI_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/monster_prefabs
 - D:/unity/Progream/AI_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/player_prefabs

@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.20f1c1
+CRC: 3990947391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d69f82ff0120f3b04a8a1d719aa1911f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f44574b7d42f73679a72ce7221946f74
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b1964338705e1eb034f9b1d3dc044736
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 9358d58f7c912ff4d93312e1b25160f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34e23ceb81319124a8b320649cdf459b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e830dce9b6f41b04da2759132903aaec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MoveSpeed_Legendary.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_HealthBonus_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeDamage_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeBulletSpeed_Common.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_HealthBonus_Common.asset
+- Assets/Scripts/Misc/ScriptableObjects/Player/DefaultPlayerStats.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeCooldown_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeKnockbackCD_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeDamage_Common.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MoveSpeed_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeLifeSteal_Legendary.asset
+- Assets/Scripts/Misc/ScriptableObjects/Enemy/NormalZombieStats.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeLifeSteal_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Enemy/HeavySkeletonStats.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeDodge_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeAutoTarget_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_HealthBonus_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeCrit_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeDamage_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangePenetration_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeCritDamage_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeCrit_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Enemy/RangerStats.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MoveSpeed_Common.asset
+- Assets/Scripts/Misc/ScriptableObjects/Enemy/FastHoundStats.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_DamageReduction_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeDamage_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeBulletCount_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeRotation_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeDamage_Common.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_DamageReduction_Legendary.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_DamageReduction_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeDodge_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeKnockback_Common.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MoveSpeed_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangePenetration_Rare.asset
+- Assets/Scripts/Misc/ScriptableObjects/Enemy/ExploderStats.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeCount_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeBulletCount_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_RangeCooldown_Epic.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_DamageReduction_Common.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_HealthBonus_Legendary.asset
+- Assets/Scripts/Misc/ScriptableObjects/Card/Card_MeleeCount_Rare.asset
+Dependencies: []
