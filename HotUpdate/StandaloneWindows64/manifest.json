@@ -1,7 +1,7 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "platform": "StandaloneWindows64",
-    "generatedAtUtc": "2026-05-15T13:26:49.8459551Z",
+    "generatedAtUtc": "2026-05-15T13:47:29.3301486Z",
     "hotUpdateCodeFolders": [
         "Assets/HotUpdate/GameLogic",
         "Assets/HotUpdate/UI",
@@ -30,7 +30,7 @@
     "files": [
         {
             "fileName": "card_rules.json",
-            "hash": "9574e376e64506ed34ae811847a3658c",
+            "hash": "a7fa7ce49f0c6a53895ba767be112ef4",
             "size": 280
         },
         {
@@ -65,13 +65,13 @@
         },
         {
             "fileName": "StandaloneWindows64",
-            "hash": "943801aa543f76eee8816c171dec7e74",
+            "hash": "896be4cf7e2d7587abf5d17c200b86b5",
             "size": 1793
         },
         {
             "fileName": "textures",
-            "hash": "9ebc5aea7d51c7161f15de581fddfcbb",
-            "size": 3108290
+            "hash": "8d9112b814fd03dd5dfa7f06b1d661fc",
+            "size": 3108197
         },
         {
             "fileName": "ui_prefabs",
