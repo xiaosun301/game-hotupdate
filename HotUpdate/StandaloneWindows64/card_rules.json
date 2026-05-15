@@ -1,6 +1,6 @@
 {
   "legendaryPityThreshold": 5,
-  "cardsPerDrawOverride": 4,
+  "cardsPerDrawOverride": 2,
   "disabledCardIds": [],
   "featuredEffectTypes": [
     "MaxHealthBonus",

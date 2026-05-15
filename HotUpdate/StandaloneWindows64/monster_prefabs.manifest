@@ -68,5 +68,5 @@ Assets:
 - Assets/Prefabs/Monster/MonsterBullet.prefab
 - Assets/Prefabs/Monster/NormalZombie.prefab
 Dependencies:
-- D:/unity/Progream/AI_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/configs
-- D:/unity/Progream/AI_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures
+- D:/unity/Progream/Hot_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/configs
+- D:/unity/Progream/Hot_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures
