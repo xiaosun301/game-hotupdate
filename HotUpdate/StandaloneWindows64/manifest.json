@@ -1,7 +1,7 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "platform": "StandaloneWindows64",
-    "generatedAtUtc": "2026-05-16T03:14:25.3665976Z",
+    "generatedAtUtc": "2026-05-16T03:17:58.4113688Z",
     "hotUpdateCodeFolders": [
         "Assets/HotUpdate/GameLogic",
         "Assets/HotUpdate/UI",
@@ -30,7 +30,7 @@
     "files": [
         {
             "fileName": "card_rules.json",
-            "hash": "9574e376e64506ed34ae811847a3658c",
+            "hash": "a7fa7ce49f0c6a53895ba767be112ef4",
             "size": 280
         },
         {
@@ -55,17 +55,17 @@
         },
         {
             "fileName": "player_prefabs",
-            "hash": "124fda8bf33293ab5feb096607a50835",
+            "hash": "69e92f89c08f9b15f432f9c4bea061c0",
             "size": 17322
         },
         {
             "fileName": "scene_assets",
-            "hash": "ed395a35a53b2f67d98063d796a9950d",
+            "hash": "53777cb36dca0e9522020438c65a25df",
             "size": 3234425
         },
         {
             "fileName": "StandaloneWindows64",
-            "hash": "9ea768a247700bead49392322b04401d",
+            "hash": "8b2b8b8095725a24b20d676f7d5d03a3",
             "size": 1793
         },
         {
