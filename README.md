@@ -1,1 +1,2 @@
-# game-hotupdate
+# 方块战士
+#热更中转仓库
