@@ -1,16 +1,15 @@
 ManifestFileVersion: 0
-UnityVersion: 2023.2.20f1c1
-CRC: 1420203223
+CRC: 3278855949
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 790410a980475cabd6868271ec434223
+    Hash: 7ae32c211d8ab243d3e3849675af4fa8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9235032d7af6d342cd3bc3c3147d2842
+    Hash: 9c788dba8dfe753db2152179e77d64d4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9a6aa1e50d8155632f763fe1b807984b
+    Hash: 7ae32c211d8ab243d3e3849675af4fa8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,21 +31,21 @@ ClassTypes:
 - Class: 70
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 7d28a65a5bb5e034e9c265dac67665b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5494a51a85e8cfd458c1d7a0b13e2488, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2a6c5a92c10d4f4fac770a8005d7a31, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: b1cfba333331491448713c54b8571403, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5ee28dd2b9365a347b3b077ed50e1ab3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 34e23ceb81319124a8b320649cdf459b, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5494a51a85e8cfd458c1d7a0b13e2488, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e9b98139a27cf940a2548e5095db9f8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c2d2818972b78c24d81ca366af43503f, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 7d28a65a5bb5e034e9c265dac67665b8, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f2a6c5a92c10d4f4fac770a8005d7a31, type: 3}
+  Script: {fileID: 11500000, guid: 34e23ceb81319124a8b320649cdf459b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c08ce25634e7c894d9b539125c6c5f7c, type: 3}
 - Class: 115
@@ -68,5 +67,5 @@ Assets:
 - Assets/Prefabs/Monster/MonsterBullet.prefab
 - Assets/Prefabs/Monster/NormalZombie.prefab
 Dependencies:
-- D:/unity/Progream/Hot_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/configs
-- D:/unity/Progream/Hot_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures
+- D:/Unity-Profects/Projectes/Block-Warrior/HotUpdateBuild/HotUpdate/StandaloneWindows64/configs
+- D:/Unity-Profects/Projectes/Block-Warrior/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures

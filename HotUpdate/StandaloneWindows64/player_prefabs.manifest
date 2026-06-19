@@ -1,16 +1,15 @@
 ManifestFileVersion: 0
-UnityVersion: 2023.2.20f1c1
-CRC: 1669894027
+CRC: 1624295301
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 843c0d5bc53cb56c55d0cf9b2452dc80
+    Hash: 8050ad2aae8cfea36cded85b122c8dac
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2c58a006dc62c022bea6917a65e3773c
+    Hash: 5b7bb546b6a641a8c7de4d2cce18b187
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9c6a6103b4b40ed7c5d1590408a9f6de
+    Hash: 8050ad2aae8cfea36cded85b122c8dac
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,25 +27,25 @@ ClassTypes:
 - Class: 61
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51854af6c09efa44a818087637b25016, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9191c6c3d9165546b7fb7c9e8aeab62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 81daf4ad86d02f84cb41e54aa81259f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f1dbefc70be8f446948f64740cbc04e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 527ff9089f5de0f4bb4a69f7fcbf6096, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9358d58f7c912ff4d93312e1b25160f7, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: c40ab2be0094af54f8477dd8f4fac4b0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8f1dbefc70be8f446948f64740cbc04e, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: c1acfd8cf07066f4b8f370740d54f2ec, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: c9191c6c3d9165546b7fb7c9e8aeab62, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 51854af6c09efa44a818087637b25016, type: 3}
+  Script: {fileID: 11500000, guid: c40ab2be0094af54f8477dd8f4fac4b0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c08ce25634e7c894d9b539125c6c5f7c, type: 3}
 - Class: 115
@@ -56,8 +55,6 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
-- AssemblyName: PlatformerGame.AOT
-  ClassName: PlatformerGame.Player.AttackMode
 - AssemblyName: Unity.InputSystem
   ClassName: UnityEngine.InputSystem.InputAction
 - AssemblyName: Unity.InputSystem
@@ -79,11 +76,15 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.UnityEvent
 - AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.UnityEvent`1
+  ClassName: UnityEngine.Events.UnityEvent`1[PlatformerGame.Player.AttackMode]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Int32]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Single]
 Assets:
 - Assets/Prefabs/Player/MeleeRectangle.prefab
 - Assets/Prefabs/Player/Player.prefab
 - Assets/Prefabs/Player/Bullet.prefab
 Dependencies:
-- D:/unity/Progream/Hot_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/configs
-- D:/unity/Progream/Hot_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures
+- D:/Unity-Profects/Projectes/Block-Warrior/HotUpdateBuild/HotUpdate/StandaloneWindows64/configs
+- D:/Unity-Profects/Projectes/Block-Warrior/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures

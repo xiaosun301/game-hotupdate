@@ -1,7 +1,7 @@
 {
-    "version": "1.0.7",
+    "version": "1.1.0",
     "platform": "StandaloneWindows64",
-    "generatedAtUtc": "2026-05-16T03:25:30.5007538Z",
+    "generatedAtUtc": "2026-06-19T14:39:56.7051071Z",
     "hotUpdateCodeFolders": [
         "Assets/HotUpdate/GameLogic",
         "Assets/HotUpdate/UI",
@@ -30,53 +30,53 @@
     "files": [
         {
             "fileName": "card_rules.json",
-            "hash": "9574e376e64506ed34ae811847a3658c",
-            "size": 280
+            "hash": "37277c4ba505e9b37a69e207323ccb5d",
+            "size": 258
         },
         {
             "fileName": "configs",
-            "hash": "4a59aff561e9262e8425e400fe7080e0",
+            "hash": "63691cc0739dd1131684d7d28bb7bf28",
             "size": 6469
         },
         {
             "fileName": "HotUpdate.dll",
-            "hash": "c379ecc6ea57e4b3083b297ed39c7ad9",
-            "size": 22016
+            "hash": "cffd7bb4341fa520046698c9218c9306",
+            "size": 23040
         },
         {
             "fileName": "map_prefabs",
-            "hash": "0e33418d33384594c2f84769275352dc",
-            "size": 6838
+            "hash": "2d04e44141f420cf75f0207dd8da4b9c",
+            "size": 6755
         },
         {
             "fileName": "monster_prefabs",
-            "hash": "2e2e609cb5e7ae064f8325d4f8fc7650",
-            "size": 76836
+            "hash": "c3712c9f7a43a17d13cc45610101197f",
+            "size": 77057
         },
         {
             "fileName": "player_prefabs",
-            "hash": "124fda8bf33293ab5feb096607a50835",
-            "size": 17322
+            "hash": "427c15c18fb109c1d27ab8e111c922ff",
+            "size": 17235
         },
         {
             "fileName": "scene_assets",
-            "hash": "ed395a35a53b2f67d98063d796a9950d",
-            "size": 3234425
+            "hash": "b31d096ba41641bfd2466494bd034c19",
+            "size": 3467603
         },
         {
             "fileName": "StandaloneWindows64",
-            "hash": "9ea768a247700bead49392322b04401d",
-            "size": 1793
+            "hash": "b4d1bb876119e7f3f8718985eeb07099",
+            "size": 1794
         },
         {
             "fileName": "textures",
-            "hash": "0725de2a327969e3d8484416b5c6d89c",
-            "size": 3245514
+            "hash": "57ae2cfec8275a714a7fdce550f57f17",
+            "size": 3245311
         },
         {
             "fileName": "ui_prefabs",
-            "hash": "99f56cba0ecc529a2dff8873da60f867",
-            "size": 3044243
+            "hash": "dc398ae0b0f9d995c5a11dc2339a63b5",
+            "size": 3043306
         }
     ]
 }

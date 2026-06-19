@@ -1,16 +1,15 @@
 ManifestFileVersion: 0
-UnityVersion: 2023.2.20f1c1
-CRC: 3559802753
+CRC: 4060299226
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f720f9609e37a8717ad3d1f5f82fb70a
+    Hash: 89bb309b7538d0f23b434215046d6d6b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ce179373db51c317486a8eba23768386
+    Hash: f72a28d9489c580ac054d7c5ff24b556
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 988b5133076866296ea6272af98b836a
+    Hash: 89bb309b7538d0f23b434215046d6d6b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,9 +38,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.UnityEvent
 - AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.UnityEvent`1
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Single]
 Assets:
 - Assets/Prefabs/Map/Obstacle.prefab
 - Assets/Prefabs/Map/Wall.prefab
 Dependencies:
-- D:/unity/Progream/Hot_Project/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures
+- D:/Unity-Profects/Projectes/Block-Warrior/HotUpdateBuild/HotUpdate/StandaloneWindows64/textures

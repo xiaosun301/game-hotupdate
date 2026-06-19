@@ -1,13 +1,10 @@
 {
-  "legendaryPityThreshold": 5,
-  "cardsPerDrawOverride": 4,
-  "disabledCardIds": [],
-  "featuredEffectTypes": [
-    "MaxHealthBonus",
-    "MeleeDamageBonus",
-    "RangeDamageBonus"
-  ],
-  "recentEffectTypeWindow": 3,
-  "featuredEffectWeight": 2.5,
-  "repeatCardPenalty": 0.35
+    "cardsPerDrawOverride": 3,
+    "legendaryPityThreshold": 0,
+    "disabledCardIds": [],
+    "featuredEffectTypes": [],
+    "recentEffectTypeWindow": 3,
+    "featuredEffectWeight": 2.5,
+    "repeatCardPenalty": 0.35,
+    "enableDebugLog": true
 }
