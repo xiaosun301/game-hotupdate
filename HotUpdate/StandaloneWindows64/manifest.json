@@ -1,7 +1,7 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "platform": "StandaloneWindows64",
-    "generatedAtUtc": "2026-06-19T16:08:51.0391168Z",
+    "generatedAtUtc": "2026-06-19T16:32:48.5704180Z",
     "hotUpdateCodeFolders": [
         "Assets/HotUpdate/GameLogic",
         "Assets/HotUpdate/UI",
@@ -22,8 +22,7 @@
         "Assets/Material",
         "Assets/Audio",
         "Assets/VFX",
-        "Assets/Effects",
-        "Assets/Font"
+        "Assets/Effects"
     ],
     "rawHotUpdateFiles": [
         "Assets/HotUpdate/Config/card_rules.json"
@@ -31,7 +30,7 @@
     "files": [
         {
             "fileName": "card_rules.json",
-            "hash": "09e04f7d5549dff67c2b2aad37210920",
+            "hash": "e07c03f3b36d32590b4b2767b6fc711a",
             "size": 258
         },
         {
@@ -40,13 +39,8 @@
             "size": 6469
         },
         {
-            "fileName": "fonts",
-            "hash": "3928cf87053521b3428c07cce4189729",
-            "size": 48500267
-        },
-        {
             "fileName": "HotUpdate.dll",
-            "hash": "99e5cac61546a3d5c3d8a72f785cc16b",
+            "hash": "1fee2d3dc1d129d6c8a0257d9675a842",
             "size": 22528
         },
         {
@@ -61,28 +55,28 @@
         },
         {
             "fileName": "player_prefabs",
-            "hash": "3203403523f9016d505803b9d5f7f091",
+            "hash": "4176b3db5564632d4d41874c57453e56",
             "size": 17235
         },
         {
             "fileName": "scene_assets",
-            "hash": "c7376c9a148e52cfd1b93469f5a9641b",
-            "size": 866174
+            "hash": "a23bd0103e87569ab68bd18a54220def",
+            "size": 3467592
         },
         {
             "fileName": "StandaloneWindows64",
-            "hash": "b366be371c77244a06f735ecab118084",
-            "size": 1829
+            "hash": "abf50c77d266b3fde4dd4bd54f62ad97",
+            "size": 1794
         },
         {
             "fileName": "textures",
-            "hash": "b447e0fe969971584dfa38601d668187",
-            "size": 3245531
+            "hash": "e30f8ffedfe20846ecde7287c617bfd8",
+            "size": 3245534
         },
         {
             "fileName": "ui_prefabs",
-            "hash": "308412c40f67cd3686db68fe537ed69b",
-            "size": 434124
+            "hash": "dc398ae0b0f9d995c5a11dc2339a63b5",
+            "size": 3043306
         }
     ]
 }
